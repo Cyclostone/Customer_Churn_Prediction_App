@@ -20,7 +20,7 @@ This demonstration shows how users can input customer data and get real-time chu
 
 ## Key Features
 - **Interactive Interface:** Built using Streamlit for seamless user experience.
-- **Pre-trained Model:** Predicts customer churn with high accuracy.
+- **Custom-trained Model:** Predicts customer churn with high accuracy.
 - **Reusable Components:** Serialized model (`.h5`) and preprocessing objects (`.pkl` files) for scalable and maintainable AI solutions.
 - **Modular Design:** Easy integration and deployment in real-world use cases.
 
