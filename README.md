@@ -1,6 +1,6 @@
 # Customer Churn Prediction
 
-A machine learning-powered application for predicting customer churn using a pre-trained model. This project demonstrates the efficient use of serialized model components to enhance reusability and deployment, offering an interactive interface via Streamlit for real-time predictions.
+A machine learning-powered application for predicting customer churn using a custom-trained model. This project demonstrates the efficient use of serialized model components to enhance reusability and deployment, offering an interactive interface via Streamlit for real-time predictions.
 
 ---
 
